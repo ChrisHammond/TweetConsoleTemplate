@@ -1,0 +1,7 @@
+c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\bin\Release\ProjectTemplates\CSharp\1033\TweetConsoleTemplate.zip
+c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\bin\Release\TweetConsoleTemplate.dll.config
+c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\_EmptyResource.resources
+c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.csproj.GenerateResource.cache
+c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\CSharp\1033\TweetConsoleTemplate.zip
+c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.dll
+c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.pdb

@@ -1,0 +1,21 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\TweetConsoleTemplate</RelativePathOnDisk>
+    <TemplateFileName>TweetConsoleTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>TweetConsoleProject</Name>
+        <Description>A simple C# Console application that will reply to tweets. Utilizes the CoreTweet library.</Description>
+        <Icon>TweetConsoleTemplate.ico</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <LanguageTag>csharp</LanguageTag>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>d6c76393-2e7e-4694-bc29-88bf5bdc6d23</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>TweetConsoleTemplate</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

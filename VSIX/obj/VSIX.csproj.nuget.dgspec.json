@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj": {}
+  },
+  "projects": {
+    "c:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj",
+        "projectName": "TweetConsoleTemplate",
+        "projectPath": "c:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "c:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
+        "projectName": "VSIX",
+        "projectPath": "c:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
+        "packagesPath": "C:\\Users\\chammond\\.nuget\\packages\\",
+        "outputPath": "c:\\projects\\TweetConsoleTemplate\\VSIX\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chammond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "c:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
+                "projectPath": "c:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.3.2099, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.202, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
