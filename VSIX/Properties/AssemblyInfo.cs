@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("VSIX")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("VSIX For Twitter Bot Project from Christoc.com")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Christoc.com")]
 [assembly: AssemblyProduct("VSIX")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("2020 Christoc.com")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

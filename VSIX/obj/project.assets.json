@@ -12807,26 +12807,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chammond\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\DNN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
+      "projectUniqueName": "C:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
       "projectName": "VSIX",
-      "projectPath": "c:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
-      "packagesPath": "C:\\Users\\chammond\\.nuget\\packages\\",
-      "outputPath": "c:\\projects\\TweetConsoleTemplate\\VSIX\\obj\\",
+      "projectPath": "C:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
+      "packagesPath": "C:\\Users\\DNN\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\TweetConsoleTemplate\\VSIX\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\chammond\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\DNN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net472"
@@ -12838,8 +12833,8 @@
       "frameworks": {
         "net472": {
           "projectReferences": {
-            "c:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
-              "projectPath": "c:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj"
+            "C:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
+              "projectPath": "C:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj"
             }
           }
         }

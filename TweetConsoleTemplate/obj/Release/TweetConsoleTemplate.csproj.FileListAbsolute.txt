@@ -5,3 +5,4 @@ c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTe
 c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\CSharp\1033\TweetConsoleTemplate.zip
 c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.dll
 c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.pdb
+C:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.csprojAssemblyReference.cache

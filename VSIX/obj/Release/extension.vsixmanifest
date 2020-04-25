@@ -2,7 +2,7 @@
   <Metadata>
     <Identity Id="VSIX.ce5f048a-f66f-400f-86fe-566b8a4abe79" Version="1.0" Language="en-US" Publisher="Chris Hammond" />
     <DisplayName>VSIX</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Description xml:space="preserve">VSIX Project for Twitter Bot from Christoc.com</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
