@@ -1,33 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj": {}
+    "F:\\Projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj": {}
   },
   "projects": {
-    "C:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
-      "version": "1.0.0",
+    "F:\\Projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj",
+        "projectUniqueName": "F:\\Projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj",
         "projectName": "TweetConsoleTemplate",
-        "projectPath": "C:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj"
+        "projectPath": "F:\\Projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj": {
+    "F:\\Projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
+        "projectUniqueName": "F:\\Projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
         "projectName": "VSIX",
-        "projectPath": "C:\\projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
-        "packagesPath": "C:\\Users\\DNN\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\TweetConsoleTemplate\\VSIX\\obj\\",
+        "projectPath": "F:\\Projects\\TweetConsoleTemplate\\VSIX\\VSIX.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TweetConsoleTemplate\\VSIX\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DNN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net472"
@@ -39,8 +49,8 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
-                "projectPath": "C:\\projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj"
+              "F:\\Projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj": {
+                "projectPath": "F:\\Projects\\TweetConsoleTemplate\\TweetConsoleTemplate\\TweetConsoleTemplate.csproj"
               }
             }
           }
@@ -50,13 +60,19 @@
         "net472": {
           "dependencies": {
             "Microsoft.VSSDK.BuildTools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[16.3.2099, )"
+              "version": "[17.4.2119, )"
+            },
+            "Microsoft.VisualStudio.CoreUtility": {
+              "target": "Package",
+              "version": "[17.4.255, )"
             },
             "Microsoft.VisualStudio.SDK": {
               "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[16.0.202, )"
+              "version": "[17.4.33103.184, )"
             }
           }
         }

@@ -6,3 +6,15 @@ c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\CSharp\1033\Tw
 c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.dll
 c:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.pdb
 C:\projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.csprojAssemblyReference.cache
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\bin\Release\ProjectTemplates\CSharp\1033\TweetConsoleTemplate.zip
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\bin\Release\TweetConsoleTemplate.dll.config
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\bin\Release\Newtonsoft.Json.dll
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\bin\Release\Newtonsoft.Json.xml
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.csproj.AssemblyReference.cache
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\_EmptyResource.resources
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.csproj.GenerateResource.cache
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.csproj.CoreCompileInputs.cache
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\CSharp\1033\TweetConsoleTemplate.zip
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.csproj.CopyComplete
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.dll
+F:\Projects\TweetConsoleTemplate\TweetConsoleTemplate\obj\Release\TweetConsoleTemplate.pdb

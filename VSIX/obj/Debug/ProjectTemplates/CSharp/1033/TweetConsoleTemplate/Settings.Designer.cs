@@ -13,182 +13,138 @@ namespace $safeprojectname$.Properties {
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
 [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.3.0.0")]
-internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
-{
-
-    private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
-
-    public static Settings Default
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
     {
-        get
-        {
-            return defaultInstance;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("")]
-    public string consumerSecret
-    {
-        get
-        {
-            return ((string)(this["consumerSecret"]));
-        }
-        set
-        {
-            this["consumerSecret"] = value;
-        }
-    }
+        private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("")]
-    public string consumerKey
-    {
-        get
+        public static Settings Default
         {
-            return ((string)(this["consumerKey"]));
+            get
+            {
+                return defaultInstance;
+            }
         }
-        set
-        {
-            this["consumerKey"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("")]
-    public string accessToken
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string consumerSecret
         {
-            return ((string)(this["accessToken"]));
+            get
+            {
+                return ((string)(this["consumerSecret"]));
+            }
+            set
+            {
+                this["consumerSecret"] = value;
+            }
         }
-        set
-        {
-            this["accessToken"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("")]
-    public string accessSecret
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string consumerKey
         {
-            return ((string)(this["accessSecret"]));
+            get
+            {
+                return ((string)(this["consumerKey"]));
+            }
+            set
+            {
+                this["consumerKey"] = value;
+            }
         }
-        set
-        {
-            this["accessSecret"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("0")]
-    public long userID
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string accessToken
         {
-            return ((long)(this["userID"]));
+            get
+            {
+                return ((string)(this["accessToken"]));
+            }
+            set
+            {
+                this["accessToken"] = value;
+            }
         }
-        set
-        {
-            this["userID"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("")]
-    public string screenName
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string accessSecret
         {
-            return ((string)(this["screenName"]));
+            get
+            {
+                return ((string)(this["accessSecret"]));
+            }
+            set
+            {
+                this["accessSecret"] = value;
+            }
         }
-        set
-        {
-            this["screenName"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("")]
-    public string lastTweetTime
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        public long userID
         {
-            return ((string)(this["lastTweetTime"]));
+            get
+            {
+                return ((long)(this["userID"]));
+            }
+            set
+            {
+                this["userID"] = value;
+            }
         }
-        set
-        {
-            this["lastTweetTime"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("1184540125772079106")]
-    public long lastTweetId
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string screenName
         {
-            return ((long)(this["lastTweetId"]));
+            get
+            {
+                return ((string)(this["screenName"]));
+            }
+            set
+            {
+                this["screenName"] = value;
+            }
         }
-        set
-        {
-            this["lastTweetId"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("")]
-    public string lastRetweetTime
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string lastTweetTime
         {
-            return ((string)(this["lastRetweetTime"]));
+            get
+            {
+                return ((string)(this["lastTweetTime"]));
+            }
+            set
+            {
+                this["lastTweetTime"] = value;
+            }
         }
-        set
-        {
-            this["lastRetweetTime"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("1184540125772079106")]
-    public long lastRetweetId
-    {
-        get
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("1184540125772079106")]
+        public long lastTweetId
         {
-            return ((long)(this["lastRetweetId"]));
+            get
+            {
+                return ((long)(this["lastTweetId"]));
+            }
+            set
+            {
+                this["lastTweetId"] = value;
+            }
         }
-        set
-        {
-            this["lastRetweetId"] = value;
-        }
-    }
 
-    [global::System.Configuration.UserScopedSettingAttribute()]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Configuration.DefaultSettingValueAttribute("1184540125772079106")]
-    public long lastBadTagId
-    {
-        get
-        {
-            return ((long)(this["lastBadTagId"]));
-        }
-        set
-        {
-            this["lastBadTagId"] = value;
-        }
     }
-}
 }
